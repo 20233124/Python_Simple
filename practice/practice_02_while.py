@@ -35,3 +35,5 @@ while True:
     total += x
 print(f"1~100 총합(while): {total}")
 
+
+
